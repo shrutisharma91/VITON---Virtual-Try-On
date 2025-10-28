@@ -1,8 +1,9 @@
 torch
 torchvision
+opencv-python
+mediapipe
+rembg
+torchgeometry
 numpy
 Pillow
-opencv-python
-torchgeometry
-rembg
-mediapipe
+gradio
